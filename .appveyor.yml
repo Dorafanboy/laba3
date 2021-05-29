@@ -1,4 +1,2 @@
-install:
- - pip3 install flask
 build_script:
  - python3 ./flaskapp/some_app.py
